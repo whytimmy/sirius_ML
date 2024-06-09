@@ -1,1 +1,1 @@
-"# sirius_ML" 
+Materials from Sirius course "Introduction to ML"
